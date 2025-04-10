@@ -1,0 +1,156 @@
+[
+  {
+    "image": "https://bizweb.dktcdn.net/100/413/756/products/image-1725802471815.png?v=1730995447480",
+    "title": "Nike Air Force 1 '07",
+    "description": "Nike Air Force 1 '07 mang lại sự thoải mái và phong cách.",
+    "category": "footwear",
+    "brand": "nike",
+    "price": 120,
+    "salePrice": 100,
+    "totalStock": 50,
+    "averageReview": 4.5
+  },
+  {
+    "image": "https://supersports.com.vn/cdn/shop/files/IH2422-1.jpg?v=1727859671&width=1000",
+    "title": "Adidas Grand Court",
+    "description": "Đôi giày Adidas Grand Court cổ điển với phong cách thể thao.",
+    "category": "footwear",
+    "brand": "adidas",
+    "price": 75,
+    "salePrice": 65,
+    "totalStock": 30,
+    "averageReview": 4.3
+  },
+  {
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa/global/371149/02/sv01/fnd/IND/fmt/png",
+    "title": "Puma Smash V2",
+    "description": "Puma Smash V2 - phong cách thể thao và thoải mái.",
+    "category": "footwear",
+    "brand": "puma",
+    "price": 60,
+    "salePrice": 50,
+    "totalStock": 40,
+    "averageReview": 4.2
+  },
+  {
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl9zRb607aI46V1GlSrkzlBo51vQ7uDxxsTrggyBSz1oWPQVoyU8Ck5BrV0kV2Th3SYxYx4DF7QBizmQ9j8lUSpyEFU5iniQEmQUQhle7EQ2NRLTMXyq6cWviMtd5nMsc-iGqy5qUjuw&usqp=CAc",
+    "title": "Levi's Denim Jacket",
+    "description": "Áo khoác Levi's Denim phong cách cổ điển.",
+    "category": "men",
+    "brand": "levi's",
+    "price": 90,
+    "salePrice": 80,
+    "totalStock": 20,
+    "averageReview": 4.7
+  },
+  {
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSCpF99GK9ZhXukQTGrc55IMXV6z1W-fIvsaCDAg5PIfmE1esC_c7csYAA_JeoYuyMYeWiPZx03PZNhBUtDIqcaBRc9GhhgRGXKf0oeMTxQwj2eOl25nnoQRLt9iODg-ERk8Tp27YEbUYs&usqp=CAc",
+    "title": "Zara Women's Dress",
+    "description": "Đầm Zara thiết kế thanh lịch dành cho nữ.",
+    "category": "women",
+    "brand": "zara",
+    "price": 50,
+    "salePrice": 45,
+    "totalStock": 60,
+    "averageReview": 4.4
+  },
+  {
+    "image": "https://image.hm.com/assets/hm/78/e5/78e54582c8b731b199d6fb181a051b7f8fa55c66.jpg?imwidth=396",
+    "title": "H&M Fitness Wear",
+    "description": "Trang phục thể thao H&M thoải mái cho tập luyện.",
+    "category": "women",
+    "brand": "h&m",
+    "price": 40,
+    "salePrice": 35,
+    "totalStock": 100,
+    "averageReview": 4.6
+  },
+  {
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c5200b9b-3176-4246-8d71-21e42d03895b/M+NSW+CLUB+HOODIE+PO+BB.png",
+    "title": "Nike Club Fleece Hoodie",
+    "description": "Áo hoodie thể thao Nike, chất liệu mềm mại và ấm áp.",
+    "category": "men",
+    "brand": "nike",
+    "price": 55,
+    "salePrice": 45,
+    "totalStock": 25,
+    "averageReview": 4.8
+  },
+  {
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ3QCgfcGko_W89_6SEEDVu2kI3c2y3U94EOJdFEyX7_CNZT13UOZi7xnB4qvpGf_gX5zSTnSYAiHHtC59FytvbIYJluc8LSTkKhlVF9OVnlH2dRnT19am-IFpVW_oV-XnXErEjvnR6hg&usqp=CAc",
+    "title": "Adidas Essentials Tee",
+    "description": "Áo thun Adidas đơn giản, thoải mái, phù hợp hàng ngày.",
+    "category": "men",
+    "brand": "adidas",
+    "price": 30,
+    "salePrice": 25,
+    "totalStock": 75,
+    "averageReview": 4.5
+  },
+  {
+    "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAFwAXAMBIgACEQEDEQH/xAAbAAAABwEAAAAAAAAAAAAAAAAAAQMEBQYHAv/EADgQAAIBAwEFBAgEBgMAAAAAAAECAwAEERIFBiExURNBYZEUIiNxgaGxwUJDUqIycsLR4fAHFRb/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYEQEBAQEBAAAAAAAAAAAAAAAAARECEv/aAAwDAQACEQMRAD8AG1OaAfpq+zLwX3VQtocZIx4CtAuBxFAzvZvRrG4n70jJHvxw+dZrt63uJVFnDnN1IkUTc8FiF4+7NXzeWTFgkI/NkGf5Rx+oFRWxbZbra3pMgJisEMvvcg4+WT8BQQF9stYttzxooitYHWOKMd4RQoPyqTtmHbt6x4H/AH6VD2fpc0hkmBZmbU3iT407UTRzM4Awx45cD6mqLPCy3CSW5PAqVyvAjIqJ/wCPYH9PHaElbXXAme85wx/aKV2Npa97T0hdRXBjVx8ORqZ3XtVgv7oKOAnkbl1P+aItOKFHQqK5osV1RUGY3gzdxr4qK0G5/jrPAzSX1rrBDM6ZB65FaHcH16Cq71SLHf2RkmCKIpDxU4HFcknlj+1SUtt6Buzfah7V7eRnwfxFcc/KoZEnvd+CJiDFCpUL3BRjA95zn41Y94UL7CvwOfYMfLj9qzzbdb7484zlLPs7dHWKB3I4CW6KZPkac7PlW4fQYreJ1OGR2LH4YGDT6G3hu7HsZo1dGXhqGcGqds+2u7a7uZoHZYIphCOhY5OMe4H5VtholoBEqhkMgY4xHFqHxFTm7VvLG100qgDtGCnVnPH3dwxUNsaTtAjciQMgdatWx4RDZn1NJkldzwxnLHB8sVA9oUKFAVFRmhQZbEdW2rRetxGP3CtBnOZKz20YSbw2WSNXpMefH1hxq/yHMhoG8uzbSe6S6ki9smMOpIJxyzjnTm9j7WxuY/1wuvmCKNTSq8eHcaLtrPNiShoB1FKNs5E3NmufxHaRlJPeMFPuabWA7D0iL8UZI8jVm2fYPe7i9gq5kk1yKOpEhYD44ohnsM6RHjvFXpBhFHQVm+w52RcHuGVzWi2zF7aFjzKKflQK0DQoUAoqBoUGTbJftN5LTIA9uDgchWg6tTE1nGww53ltQQVOtm4juCmtFj5UC6UslIpSq0Gf3MZh2xtFT3TNgeBOfvVx3QONhQxj8t3X9xP0Iqu7xRrBvBISOE8aP/T9qsW64CWDqpz7QnzAoKbYakunVwQyOUYHqOFaTZrptIF6Rr9KoUlu3/o7y1BVpnuGcBT+o6h8jWgoNKqvQYoO6FFQoBRUdFQZZuVZzttCe9nhkiVU0J2iFdRPTPgPnV5jNMk1A8aXR8UD5aUU00SYDnSqzKaCC3ztZWS3voow6wgrLx4hSRg/Xzpzui74nB1CPCkBsc+PSpV0W8AgZA8bMNYPLHPHxpQWCWdxNcJIFjkA1R6QAp7sYoG9hsy2/wC1ur0wqZu0zrPPJUVKBqb2DqtxOrkYZgynPPhS/jVo71UWqioVAZai1UVFigjVjXpXQiXpXQrsUHHYJ0pKeBguYU1N0zinYroUCkEpMYyhQ944fY102llKniD3GkxXVBykMSNlUUHwFLVwK7FAdCgKFAMUWKM0VB//2Q==",
+    "title": "Puma Essentials Sweatpants",
+    "description": "Quần jogger Puma phù hợp cho các hoạt động thể thao.",
+    "category": "men",
+    "brand": "puma",
+    "price": 45,
+    "salePrice": 40,
+    "totalStock": 35,
+    "averageReview": 4.4
+  },
+  {
+    "image": "https://static.zara.net/photos///2024/V/0/1/p/7965/508/800/2/w/750/7965508800_6_1_1.jpg?ts=1708600667058",
+    "title": "Zara Women's Blouse",
+    "description": "Áo blouse Zara thiết kế thanh lịch dành cho nữ.",
+    "category": "women",
+    "brand": "zara",
+    "price": 40,
+    "salePrice": 35,
+    "totalStock": 50,
+    "averageReview": 4.6
+  },
+  {
+    "image": "https://www2.hm.com/content/dam/ladies_s05/jackets-coats/1023/1023-military-jacket.jpg",
+    "title": "H&M Military Jacket",
+    "description": "Áo khoác phong cách quân đội từ H&M.",
+    "category": "women",
+    "brand": "h&m",
+    "price": 70,
+    "salePrice": 60,
+    "totalStock": 15,
+    "averageReview": 4.7
+  },
+  {
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRs2tw_-8dtXDwG_c8r43sTUJ4RW67vxXWztQs_-Li5dS6JRIvraMp1twG0VXsoVZLtYpqDuctkwQStcuSMxMIcnD0efb54EuhZbe6Z82xAftQjTnB61LbUWQtzaN7L8LMNOvBdNqU8ISg&usqp=CAc",
+    "title": "Nike Baseball Cap",
+    "description": "Mũ lưỡi trai Nike phong cách thể thao, phù hợp mọi hoạt động.",
+    "category": "accessories",
+    "brand": "Nike",
+    "price": 20,
+    "salePrice": 18,
+    "totalStock": 50,
+    "averageReview": 4.7
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTzfswBWINxekl_ONSGDWCfGEGqRDS_xoN-7Rxk-R1ewh91c0NaO3cgI8MFWnsU6b4IIapbdmDiLbivfaSWeqxiXPkRP_5lsfCDO_u188sg2edUDrDdVYTrBw&usqp=CAc",
+    "title": "Adidas Gym Bag",
+    "description": "Túi tập gym Adidas nhỏ gọn, tiện lợi, dễ mang theo.",
+    "category": "accessories",
+    "brand": "Adidas",
+    "price": 35,
+    "salePrice": 30,
+    "totalStock": 40,
+    "averageReview": 4.6
+  },
+  {
+    "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAFwAXAMBIgACEQEDEQH/xAAbAAEAAgMBAQAAAAAAAAAAAAAABQYDBAcBAv/EADQQAAEDAwEFBwIEBwAAAAAAAAEAAgMEBREhBhIxUWETIjJBcYGRYqFCUsHwBxQVU6Kx0f/EABkBAQACAwAAAAAAAAAAAAAAAAADBQECBP/EACARAQACAQQCAwAAAAAAAAAAAAABAgMEERIhMUETFCL/2gAMAwEAAhEDEQA/AO2IiICIiAiIgIiICIiAiIgIiICIiAiKBve2NhsjuzrK+Mz5wIIjvPJ9uHugnkVZpbvtJc29rRWKGkpz4HXGcse8c9xoJHvhZJq7aumbvGy0VX9NNVbp/wA8ILEips23zLdKyK+2aut75PDvYc13o7QH5UpSbZWGqcGCuETzwbMws+/D7oJ5F8xSxzxtkhkZJG4Za9hyD6FfSAiOOAVWe12oZX188EdPPTNlAhpJXBrnM3Rq1w4HORhyCzIqsNuaGmmEF4pKy3TcpYi4H0xqR1wpihv1or8CjuVLK78okAd8HVBInVRLdmbK27m7Nt0Ar/7+7rnnyz14qQqqumo4+0q6iKFnORwGVB1u2lop8iN8k7vobuj5dhCI3WDdcODj7pl44gOHRc+r9vaubLaGKGnH5nd936D7KKivF/uj6mgFxnfvt/AGgkEHgQMjgVjeN9k04MkU5zHS0bTbR2OtpJrc6nbdA7RzBoxp57/kRzGqodJZ42hscWNzJy0uJIHqsVC1sNOIw3dIJBHUafopa25Dy46hoyoM152mIWel0dIpGS/a3fwtZOzZKMVIIf28mCRjIzjPyCratCwU5pbNRwuGHNiBcOp1P+1vqePCnnbfoWJzC2QyM1z4m81lRZYR11oLffKF9DcYhJG7XB0cx3k5p8iOa5VftgbrbDK+CP8AqNL+CWMZkaPqZz6tz7LsUsLZNeDua1nmaHR2o5oOE24mOQhu8NAO9xGnDos0r3ZK6PtlQsqqM1McLO3jOXvDRvOb1PnjT7rncgDXYJaPUrW1+MrTQ0rekx7h5TtLnDVXLYOid21XVvHhxG09eJ/fVQdjtlTcZg2jgc/XBkI7jfU/8XVrNbIrXb46VneIy57yPE48StK/q3JJrs1a4vhie/bnu0NllhuD5aaCWSOY727EwuId5jAHv7qW2Z2aq5HsmuERp6ZpBETz35D1HkOnFXoNaOAHwvUnFWbcpcP3MsYfijwNG6MBERSuUREQEIyMHgiIML6WF/iZ7LXbZrYH7/8AIU5dzMYK3kQeNa1jQ1jQ0DgAML1EQEREBERAREQEREBERAREQEREBERB/9k=",
+    "title": "Puma Sunglasses",
+    "description": "Kính râm Puma thời trang, chống tia UV hiệu quả.",
+    "category": "accessories",
+    "brand": "Puma",
+    "price": 50,
+    "salePrice": 45,
+    "totalStock": 30,
+    "averageReview": 4.8
+  }
+]
