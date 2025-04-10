@@ -21,7 +21,7 @@ const PORT = process.env.PORT || 5000;
 
 // Kết nối MongoDB trực tiếp trong server.js
 mongoose
-  .connect(process.env.MONGO_URI || "mongodb://localhost:27017/mydatabase", {
+  .connect(process.env.MONGO_URI, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })
@@ -30,6 +30,7 @@ mongoose
     console.error("❌ MongoDB connection error:", error);
     process.exit(1);
   });
+
 
 app.use(
   cors({
@@ -56,3 +57,4 @@ app.use("/api/shop/review", shopReviewRouter);
 app.use("/api/common/feature", commonFeatureRouter);
 
 app.listen(PORT, () => console.log(`🚀 Server is running on port ${PORT}`));
+
